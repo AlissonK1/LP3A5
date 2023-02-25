@@ -1,7 +1,7 @@
 # LP3A5 - Portfolio
 
 <h3><strong>Linguagem de Programação 3</strong></h3>
-<h3>Professor : IGOR DE MORAES SAMPAIO</h3>
+<h3>Professor : Igor de Moraes Sampaio</h3>
 <h3>Aluno : Alisson Kauan da Silva Santos</h3>
 <h3>Matricula : SP3071286</h3>
 
